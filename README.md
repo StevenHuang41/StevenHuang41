@@ -3,7 +3,7 @@
 **Open to work** 
 
 - Master of Artificial Intelligence, UNSW.
-- 2+ years of practical coding experience— academic and real-world projects.
+- 2+ years of practical coding experience — academic and real-world projects.
 - Passionate in solving problem in analytical, data-driven and AI solutions
 
 ---
