@@ -53,39 +53,55 @@
 
 **Backend & API:**
 
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask"/>
+<div>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask"/>
+</div>
 
 **Dev tools & Environment:**
 
-<img height="80" width="80" src="https://cdn.simpleicons.org/git" alt="git"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker"/>
-<img height="80" width="80" src="https://superset.apache.org/img/docker-compose.webp" alt="dockercompose"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="bash"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vim.svg" alt="vim"/>
+<div>
+    <img height="80" width="80" src="https://cdn.simpleicons.org/git" alt="git"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker"/>
+    <img height="80" width="80" src="https://superset.apache.org/img/docker-compose.webp" alt="dockercompose"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="bash"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vim.svg" alt="vim"/>
+</div>
 
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vscode"/>
-<img height="80" width="80" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter"/>
+<div>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vscode"/>
+    <img height="80" width="80" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter"/>
+</div>
 
-<img height="80" width="80" src="https://cdn.simpleicons.org/anaconda" alt="anaconda"/>
-<img height="80" width="80" src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="uv"/>
+<div>
+    <img height="80" width="80" src="https://cdn.simpleicons.org/anaconda" alt="anaconda"/>
+    <img height="80" width="80" src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="uv"/>
+</div>
 
 **ML/Data Frameworks & Libraries:**
 
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="pandas"/>
+<div>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="pandas"/>
+</div>
 
-<img height="80" width="80" src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow"/>
-<img height="80" width="80" src="https://cdn.simpleicons.org/pytorch" alt="pytorch"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="scikitlearn"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="keras"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="opencv"/>
+<div>
+    <img height="80" width="80" src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow"/>
+    <img height="80" width="80" src="https://cdn.simpleicons.org/pytorch" alt="pytorch"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="scikitlearn"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="keras"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="opencv"/>
+</div>
 
-<img height="80" width="80" src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib"/>
-<img height="80" width="80" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn"/>
+<div>
+    <img height="80" width="80" src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib"/>
+    <img height="80" width="80" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn"/>
+</div>
 
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="spark"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" alt="hadoop"/>
+<div>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="spark"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" alt="hadoop"/>
+</div>
 
 
 
