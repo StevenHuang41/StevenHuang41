@@ -27,16 +27,22 @@
 
 **Languages:**
 
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="python"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/C.svg" alt="c"/>
+<div>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="python"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/C.svg" alt="c"/>
+</div>
 
 **Database:**
 
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgresql"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" alt="sqlite"/>
+<div>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgresql"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" alt="sqlite"/>
+</div>
 
 **Frontend:**
 
+<div>
+</div>
 <img height="80" width="80" src="https://cdn.simpleicons.org/react" alt="react"/>
 <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="html5"/>
 <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="css"/>
@@ -59,7 +65,7 @@
 <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vim.svg" alt="vim"/>
 
 <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vscode"/>
-<img height="80" width="80" src="    https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter"/>
+<img height="80" width="80" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter"/>
 
 <img height="80" width="80" src="https://cdn.simpleicons.org/anaconda" alt="anaconda"/>
 <img height="80" width="80" src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="uv"/>
