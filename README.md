@@ -83,7 +83,7 @@ Reinforcement Learning
 <div>
     <img height="80" width="80" src="https://cdn.simpleicons.org/git" alt="git"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker"/>
-    <img height="80" width="80" src="https://superset.apache.org/img/docker-compose.webp" alt="dockercompose"/>
+    <img height="80" width="180" src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/docker_compose_button_39e60f2557.jpeg" alt="dockercompose"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="bash"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vim.svg" alt="vim"/>
 </div>
