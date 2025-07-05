@@ -14,8 +14,28 @@
 
 ## 👨🏻‍💻 Recent Work
 
-- [salary_prediction](https://github.com/StevenHuang41/salary_prediction.git)
-- [stock_behavior_learning](https://github.com/StevenHuang41/stock_behavior_learning.git)
+### [Salary Prediction](https://github.com/StevenHuang41/salary_prediction.git)
+
+Advanced ML and full-stack development
+
+- Data Preprocessing
+- Feature Engineering
+- Model Selection
+- Hyperparameters Optimization
+- Data Visualization
+- Frontend Design
+- Backend API
+- Database Management
+
+### [Stock Behavior Learning](https://github.com/StevenHuang41/stock_behavior_learning.git)
+
+Reinforcement Learning
+
+- Q-learning
+- SARSA Learning
+- Deep Q-learning
+- Deep SARSA Learning
+- Data Visualization
 
 ## 👨🏻‍🎓 Roles Seeking (open to Intern)
 - Data Scientist
