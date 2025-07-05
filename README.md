@@ -42,14 +42,14 @@
 **Frontend:**
 
 <div>
+    <img height="80" width="80" src="https://cdn.simpleicons.org/react" alt="react"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="html5"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="css"/>
+    <img height="80" width="80" src="https://cdn.simpleicons.org/javascript" alt="javascript"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="bootstrap"/>
+    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite"/>
+    <img height="80" width="80" src="https://vitest.dev/logo-shadow.svg" alt="vitest"/>
 </div>
-<img height="80" width="80" src="https://cdn.simpleicons.org/react" alt="react"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="html5"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="css"/>
-<img height="80" width="80" src="https://cdn.simpleicons.org/javascript" alt="javascript"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="bootstrap"/>
-<img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite"/>
-<img height="80" width="80" src="https://vitest.dev/logo-shadow.svg" alt="vitest"/>
 
 **Backend & API:**
 
@@ -107,17 +107,13 @@
 
 ## 📊 Git Stats
 
-<div>
+<div height="500" width="500">
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHuang41&theme=radical&layout=compact"
-        height='200'
-        width=""
         alt="top Lang"
     />
     <img
         src="https://github-readme-stats.vercel.app/api?username=StevenHuang41&show_icons=true&theme=radical"
-        height='200'
-        width=""
         alt="github stats"
     />
 </div>
