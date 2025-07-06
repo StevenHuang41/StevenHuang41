@@ -127,16 +127,18 @@ Reinforcement Learning
 
 ## 📊 Git Stats
 
-<div height="500" width="500">
+<p>
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHuang41&theme=radical&layout=compact"
         alt="top Lang"
+        height="180"
     />
     <img
         src="https://github-readme-stats.vercel.app/api?username=StevenHuang41&show_icons=true&theme=radical"
         alt="github stats"
+        height="180"
     />
-</div>
+</p>
 
 ## 📬 Connect with Me
 
