@@ -131,12 +131,14 @@ Reinforcement Learning
     <img
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHuang41&theme=radical&layout=compact"
         alt="top Lang"
-        height="180"
+        height="200"
+        width="360"
     />
     <img
         src="https://github-readme-stats.vercel.app/api?username=StevenHuang41&show_icons=true&theme=radical"
         alt="github stats"
-        height="180"
+        height="200"
+        width="480"
     />
 </p>
 
