@@ -37,7 +37,7 @@ Reinforcement Learning
 - Deep SARSA Learning
 - Data Visualization
 
-## 👨🏻‍🎓 Roles Seeking (open to Intern)
+## 👨🏻‍🎓 Seeking Roles | Open to Full-time & Internship Opportunities
 - Data Scientist
 - Data Engineer
 - ML Engineer
