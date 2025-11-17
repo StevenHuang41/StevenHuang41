@@ -27,7 +27,7 @@ Advanced ML and full-stack development
 - Backend API
 - Database Management
 
-### [Stock Behavior Learning](https://github.com/StevenHuang41/stock_behavior_learning.git)
+### [Stock Trading Support System](https://github.com/StevenHuang41/RL-based_Stock_Trading_Support_System.git)
 
 Reinforcement Learning
 
