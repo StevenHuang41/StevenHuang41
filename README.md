@@ -1,7 +1,5 @@
 # 🏊🏻‍♂️ Steven Huang
 
-**`Open to work`** 
-
 - Master of Artificial Intelligence, UNSW.
 - 2+ years of practical coding experience in academic and real-world projects.
 - Passionate about solving problem in analytical, data-driven and AI solutions
@@ -14,9 +12,16 @@
 
 ## 👨🏻‍💻 Recent Work
 
-### [Salary Prediction](https://github.com/StevenHuang41/salary_prediction.git)
+### [Rag-based Notes Helper](https://github.com/StevenHuang41/Rag-based_notes_helper)
 
-Advanced ML and full-stack development
+- Retrieval-Augmented Generation (RAG)
+- Embedding (hugging face)
+- Faiss
+- LLM (hugging face)
+- Memory-safe file ingestion
+- Configurable environment variables
+
+### [Salary Prediction Web Application](https://github.com/StevenHuang41/salary_prediction_web_application)
 
 - Data Preprocessing
 - Feature Engineering
@@ -27,9 +32,7 @@ Advanced ML and full-stack development
 - Backend API
 - Database Management
 
-### [Stock Trading Support System](https://github.com/StevenHuang41/RL-based_Stock_Trading_Support_System.git)
-
-Reinforcement Learning
+### [RL-based Stock Trading Support System](https://github.com/StevenHuang41/RL-based_stock_trading_support_system)
 
 - Q-learning
 - SARSA Learning
@@ -39,9 +42,8 @@ Reinforcement Learning
 
 ## 👨🏻‍🎓 Seeking Roles | Open to Full-time & Internship Opportunities
 - Data Scientist
-- Data Engineer
 - ML Engineer
-- Data Analyst
+- AI Engineer
 
 ## 🛠️ Tools
 
@@ -125,22 +127,22 @@ Reinforcement Learning
 
 
 
-## 📊 Git Stats
-
-<p>
-    <img
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHuang41&theme=radical&layout=compact"
-        alt="top Lang"
-        height="200"
-        width="360"
-    />
-    <img
-        src="https://github-readme-stats.vercel.app/api?username=StevenHuang41&show_icons=true&theme=radical"
-        alt="github stats"
-        height="200"
-        width="480"
-    />
-</p>
+<!-- ## 📊 Git Stats -->
+<!---->
+<!-- <p> -->
+<!--     <img -->
+<!--         src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHuang41&theme=radical&layout=compact" -->
+<!--         alt="top Lang" -->
+<!--         height="200" -->
+<!--         width="360" -->
+<!--     /> -->
+<!--     <img -->
+<!--         src="https://github-readme-stats.vercel.app/api?username=StevenHuang41&show_icons=true&theme=radical" -->
+<!--         alt="github stats" -->
+<!--         height="200" -->
+<!--         width="480" -->
+<!--     /> -->
+<!-- </p> -->
 
 ## 📬 Connect with Me
 
