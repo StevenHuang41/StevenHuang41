@@ -12,12 +12,12 @@
 
 ## 👨🏻‍💻 Recent Work
 
-### [Rag-based Notes Helper](https://github.com/StevenHuang41/Rag-based_notes_helper)
+### [RAG-based Notes Helper](https://github.com/StevenHuang41/Rag-based_notes_helper)
 
 - Retrieval-Augmented Generation (RAG)
 - Embedding (hugging face)
 - Faiss
-- LLM (hugging face)
+- LLMs
 - Memory-safe file ingestion
 - Configurable environment variables
 
