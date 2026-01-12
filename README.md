@@ -1,49 +1,55 @@
 # 🏊🏻‍♂️ Steven Huang
 
-- Master of Artificial Intelligence, UNSW.
-- 2+ years of practical coding experience in academic and real-world projects.
-- Passionate about solving problem in analytical, data-driven and AI solutions
+I enjoy breaking down complex problems, understanding them, and turning them into **clean**, **reliable**, and **explainable AI systems**
+
+I hold a Master's degree in Information Technology (Artificial Intelligence) from UNSW, and most of my work sits at the intersection of **data management**, **machine learning**, **AI system design**, and **real-world applications**
+
+---
 
 ## 🧰 Skills
 
-- **Machine Learning (ML) / Deep Learning (DL) / Artificial Intelligence (AI)**
-- **Data Management**
-- **Frontend & Backend Development**
+- Designing **end-to-end AI systems**, from data preparation to deployment
+- Building **LLM-powered applications** with clear structure and controllable behavior
+- Applying **machine learning** and **reinforcement learning** to practical decision-making problems
+- Writing code that is **readable, reproducible, and production-aware**
 
-## 👨🏻‍💻 Recent Work
+ ---
 
-### [RAG-based Notes Helper](https://github.com/StevenHuang41/Rag-based_notes_helper)
+## 👨🏻‍💻 Recent Work & Studying
+
+### Projects
+
+#### [RAG-based Notes Helper](https://github.com/StevenHuang41/Rag-based_notes_helper)
+A personal knowledge assistant that helps querying and reasoning over your own notes
 
 - Retrieval-Augmented Generation (RAG)
-- Embedding (hugging face)
-- Faiss
-- LLMs
-- Memory-safe file ingestion
-- Configurable environment variables
+- Hugging Face embeddings + FAISS vector search
+- Memory-safe file ingestion for large notes
+- Configurable LLM backends and environment-driven design
 
-### [Salary Prediction Web Application](https://github.com/StevenHuang41/salary_prediction_web_application)
+#### [Salary Prediction Web Application](https://github.com/StevenHuang41/salary_prediction_web_application)
+A full-stack machine learning application that predicts salaries and shows dynamic diagram of the relationship between preditcted result and the whole dataset
 
-- Data Preprocessing
-- Feature Engineering
-- Model Selection
-- Hyperparameters Optimization
+- Data Preprocessing & Feature Engineering
+- Model Selection & Hyperparameters Optimization
 - Data Visualization
-- Frontend Design
-- Backend API
-- Database Management
+- Frontend UI + Backend API + Database Integration
 
-### [RL-based Stock Trading Support System](https://github.com/StevenHuang41/RL-based_stock_trading_support_system)
+#### [RL-based Stock Trading Support System](https://github.com/StevenHuang41/RL-based_stock_trading_support_system)
+An experimental project for suggesting the behaviors (sell/buy/hold) in stock market based on historical trend
 
-- Q-learning
-- SARSA Learning
-- Deep Q-learning
-- Deep SARSA Learning
-- Data Visualization
+- Q-learning / SARSA / Deep Q-learning / Deep SARSA
+- Reward design & policy behavior analysis
+- Performance visualization and comparison
 
-## 👨🏻‍🎓 Seeking Roles | Open to Full-time & Internship Opportunities
-- Data Scientist
-- ML Engineer
-- AI Engineer
+### Studying
+
+#### LLM
+- fine-tuning
+- steering
+- rag grounding
+
+---
 
 ## 🛠️ Tools
 
@@ -125,7 +131,15 @@
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" alt="hadoop"/>
 </div>
 
+---
 
+## 👨🏻‍🎓 Seeking Job Roles
+
+- Data Scientist
+- ML Engineer
+- AI Engineer
+
+---
 
 <!-- ## 📊 Git Stats -->
 <!---->
@@ -143,6 +157,8 @@
 <!--         width="480" -->
 <!--     /> -->
 <!-- </p> -->
+
+<!-- --- -->
 
 ## 📬 Connect with Me
 
