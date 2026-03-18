@@ -7,25 +7,6 @@ I enjoy breaking down complex problems, understanding them, and turning them int
     - Machine Learning Engineering (ML Pipelines, Deployment, APIs)
     - AI Systems (RAG, LLM Integration, Scalable AI Applications)
 
----
-
-## 🧰 Skills
-
-**AI / ML / DL:**
-RAG, LLM Integration, Reinforcement Learning, Feature Engineering, Hyperparameter Tuning
-
-**Backend:**
-FastAPI, RESTful API Design, Service Layer Architecture
-
-**Data:**
-Pandas, NumPy, EDA
-
-**Infrastructure:**
-Docker, CI/CD, GCP(Cloud Run, Job, Storage, SQL)
-
-**Frontend:**
-React, Vite, API Integration
-
  ---
 
 ## 👨🏻‍💻 Recent Work & Studying
@@ -89,7 +70,6 @@ An experimental project for suggesting the training behaviors (sell/buy/hold) in
     <img height="80" width="80" src="https://cdn.simpleicons.org/javascript" alt="javascript"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="bootstrap"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite"/>
-    <img height="80" width="80" src="https://vitest.dev/logo-shadow.svg" alt="vitest"/>
 </div>
 
 **Backend & API:**
@@ -102,6 +82,7 @@ An experimental project for suggesting the training behaviors (sell/buy/hold) in
 **Dev tools & Environment:**
 
 <div>
+    <img height="80" width="80" src="https://cdn.simpleicons.org/googlecloud" alt="google cloud"/>
     <img height="80" width="80" src="https://cdn.simpleicons.org/git" alt="git"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="bash"/>
