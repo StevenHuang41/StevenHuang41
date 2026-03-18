@@ -2,16 +2,29 @@
 
 I enjoy breaking down complex problems, understanding them, and turning them into **clean**, **reliable**, and **explainable AI systems**
 
-I hold a Master's degree in Information Technology (Artificial Intelligence) from UNSW, and most of my work sits at the intersection of **data management**, **machine learning**, **AI system design**, and **real-world applications**
+- Focus Areas
+    - Data Science (Predictive Modeling, Feature Engineering, EDA)
+    - Machine Learning Engineering (ML Pipelines, Deployment, APIs)
+    - AI Systems (RAG, LLM Integration, Scalable AI Applications)
 
 ---
 
 ## 🧰 Skills
 
-- Designing **end-to-end AI systems**, from data preparation to deployment
-- Building **LLM-powered applications** with clear structure and controllable behavior
-- Applying **machine learning** and **reinforcement learning** to practical decision-making problems
-- Writing code that is **readable, reproducible, and production-aware**
+**AI / ML / DL:**
+RAG, LLM Integration, Reinforcement Learning, Feature Engineering, Hyperparameter Tuning
+
+**Backend:**
+FastAPI, RESTful API Design, Service Layer Architecture
+
+**Data:**
+Pandas, NumPy, EDA
+
+**Infrastructure:**
+Docker, CI/CD, GCP(Cloud Run, Job, Storage, SQL)
+
+**Frontend:**
+React, Vite, API Integration
 
  ---
 
@@ -22,25 +35,25 @@ I hold a Master's degree in Information Technology (Artificial Intelligence) fro
 #### [RAG-based Notes Helper](https://github.com/StevenHuang41/Rag-based_notes_helper)
 A personal knowledge assistant that helps querying and reasoning over your own notes
 
-- Retrieval-Augmented Generation (RAG)
-- Hugging Face embeddings + FAISS vector search
-- Memory-safe file ingestion for large notes
+- Semantic search system using embeddings + FAISS
+- **Memory-safe** file ingestion
+- **Smart index update method** that only updates changed files
 - Configurable LLM backends and environment-driven design
 
 #### [Salary Prediction Web Application](https://github.com/StevenHuang41/salary_prediction_web_application)
 A full-stack machine learning application that predicts salaries and shows dynamic diagram of the relationship between preditcted result and the whole dataset
 
-- Data Preprocessing & Feature Engineering
-- Model Selection & Hyperparameters Optimization
-- Data Visualization
-- Frontend UI + Backend API + Database Integration
+- **End-to-end ML pipeline**
+- React frontend + FastAPI backend + PostgresSQL database
+- Cloud deployment (**GCP**)
+- Achieved **R² of 0.85, MAE ≈ 10000**
 
 #### [RL-based Stock Trading Support System](https://github.com/StevenHuang41/RL-based_stock_trading_support_system)
-An experimental project for suggesting the behaviors (sell/buy/hold) in stock market based on historical trend
+An experimental project for suggesting the training behaviors (sell/buy/hold) in stock market based on historical trend
 
-- Q-learning / SARSA / Deep Q-learning / Deep SARSA
-- Reward design & policy behavior analysis
-- Performance visualization and comparison
+- **Q-learning / SARSA / Deep Q-learning / Deep SARSA**
+- Designed reward function & policy behavior analysis
+- Backtesting gains **+855% return** in ETF 0050.TW
 
 ### Studying
 
@@ -91,7 +104,6 @@ An experimental project for suggesting the behaviors (sell/buy/hold) in stock ma
 <div>
     <img height="80" width="80" src="https://cdn.simpleicons.org/git" alt="git"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker"/>
-    <img height="80" width="180" src="https://d2zv2ciw0ln4h1.cloudfront.net/uploads/docker_compose_button_39e60f2557.jpeg" alt="dockercompose"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="bash"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vim.svg" alt="vim"/>
 </div>
@@ -130,14 +142,6 @@ An experimental project for suggesting the behaviors (sell/buy/hold) in stock ma
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="spark"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" alt="hadoop"/>
 </div>
-
----
-
-## 👨🏻‍🎓 Seeking Job Roles
-
-- Data Scientist
-- ML Engineer
-- AI Engineer
 
 ---
 
