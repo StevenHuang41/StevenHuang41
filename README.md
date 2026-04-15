@@ -47,12 +47,14 @@ An experimental project for suggesting the training behaviors (sell/buy/hold) in
 
 ## 🛠️ Tools
 
+<tr>
 **Languages:**
 
 <div>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="python"/>
     <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/C.svg" alt="c"/>
 </div>
+</tr>
 
 **Database:**
 
@@ -128,7 +130,7 @@ An experimental project for suggesting the training behaviors (sell/buy/hold) in
 
 <!-- ## 📊 Git Stats -->
 <!---->
-<!-- <p> -->
+<!-- <div>
 <!--     <img -->
 <!--         src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHuang41&theme=radical&layout=compact" -->
 <!--         alt="top Lang" -->
@@ -141,7 +143,7 @@ An experimental project for suggesting the training behaviors (sell/buy/hold) in
 <!--         height="200" -->
 <!--         width="480" -->
 <!--     /> -->
-<!-- </p> -->
+<!-- </div>
 
 <!-- --- -->
 
