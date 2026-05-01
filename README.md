@@ -1,158 +1,141 @@
 # 🏊🏻‍♂️ Steven Huang
 
-I enjoy breaking down complex problems, understanding them, and turning them into **clean**, **reliable**, and **explainable AI systems**
+Hi, I'm Steven Huang 👋
 
-- Focus Areas
-    - Data Science (Predictive Modeling, Feature Engineering, EDA)
-    - Machine Learning Engineering (ML Pipelines, Deployment, APIs)
-    - AI Systems (RAG, LLM Integration, Scalable AI Applications)
+I'm an **ML/AI Software Engineer** focused on building production-ready AI applications with **Python, FastAPI, Docker, CI/CD, cloud deployment, and RAG/LLM systems**.
 
- ---
-
-## 👨🏻‍💻 Recent Work & Studying
-
-### Projects
-
-#### [RAG-based Notes Helper](https://github.com/StevenHuang41/Rag-based_notes_helper)
-A personal knowledge assistant that helps querying and reasoning over your own notes
-
-- Semantic search system using embeddings + FAISS
-- **Memory-safe** file ingestion
-- **Smart index update method** that only updates changed files
-- Configurable LLM backends and environment-driven design
-
-#### [Salary Prediction Web Application](https://github.com/StevenHuang41/salary_prediction_web_application)
-A full-stack machine learning application that predicts salaries and shows dynamic diagram of the relationship between preditcted result and the whole dataset
-
-- **End-to-end ML pipeline**
-- React frontend + FastAPI backend + PostgresSQL database
-- Cloud deployment (**GCP**)
-- Achieved **R² of 0.85, MAE ≈ 10000**
-
-#### [RL-based Stock Trading Support System](https://github.com/StevenHuang41/RL-based_stock_trading_support_system)
-An experimental project for suggesting the training behaviors (sell/buy/hold) in stock market based on historical trend
-
-- **Q-learning / SARSA / Deep Q-learning / Deep SARSA**
-- Designed reward function & policy behavior analysis
-- Backtesting gains **+855% return** in ETF 0050.TW
-
-### Studying
-
-#### LLM
-- fine-tuning
-- steering
-- rag grounding
+I enjoy using AI techniques to solve real-world problems and turn ideas into practical, testable, and explainable software — from ML pipelines and backend APIs to retrieval systems, deployment workflows, and full-stack AI products.
 
 ---
 
-## 🛠️ Tools
+## What I Build
 
-**Languages:**
-
-<div>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Python.svg" alt="python"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/C.svg" alt="c"/>
-</div>
-
-**Database:**
-
-<div>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/PostgresSQL.svg" alt="postgresql"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/SQLite.png" alt="sqlite"/>
-</div>
-
-**Frontend:**
-
-<div>
-    <img height="80" width="80" src="https://cdn.simpleicons.org/react" alt="react"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/HTML5.svg" alt="html5"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/CSS3.svg" alt="css"/>
-    <img height="80" width="80" src="https://cdn.simpleicons.org/javascript" alt="javascript"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Bootstrap.svg" alt="bootstrap"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vite.js.svg" alt="vite"/>
-</div>
-
-**Backend & API:**
-
-<div>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/FastAPI.svg" alt="fastapi"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/Flask.png" alt="flask"/>
-</div>
-
-**Dev tools & Environment:**
-
-<div>
-    <img height="80" width="80" src="https://cdn.simpleicons.org/googlecloud" alt="google cloud"/>
-    <img height="80" width="80" src="https://cdn.simpleicons.org/git" alt="git"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Docker.svg" alt="docker"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/png-shadow-512/Bash.png" alt="bash"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Vim.svg" alt="vim"/>
-</div>
-
-<div>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Visual-Studio-Code-%28VS-Code%29.svg" alt="vscode"/>
-    <img height="80" width="80" src="https://jupyter.org/assets/homepage/main-logo.svg" alt="jupyter"/>
-</div>
-
-<div>
-    <img height="80" width="80" src="https://cdn.simpleicons.org/anaconda" alt="anaconda"/>
-    <img height="80" width="80" src="https://docs.astral.sh/uv/assets/logo-letter.svg" alt="uv"/>
-</div>
-
-**ML/Data Frameworks & Libraries:**
-
-<div>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/NumPy.svg" alt="numpy"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Pandas.svg" alt="pandas"/>
-</div>
-
-<div>
-    <img height="80" width="80" src="https://cdn.simpleicons.org/tensorflow" alt="tensorflow"/>
-    <img height="80" width="80" src="https://cdn.simpleicons.org/pytorch" alt="pytorch"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="scikitlearn"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Keras.svg" alt="keras"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/OpenCV.svg" alt="opencv"/>
-</div>
-
-<div>
-    <img height="80" width="80" src="https://matplotlib.org/_static/images/documentation.svg" alt="matplotlib"/>
-    <img height="80" width="80" src="https://user-images.githubusercontent.com/315810/92159303-30d41100-edfb-11ea-8107-1c5352202571.png" alt="seaborn"/>
-</div>
-
-<div>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Spark.svg" alt="spark"/>
-    <img height="80" width="80" src="https://icon.icepanel.io/Technology/svg/Apache-Hadoop.svg" alt="hadoop"/>
-</div>
+- **AI / LLM Applications** — RAG systems, embeddings, vector search, provider abstraction, and grounded answer generation
+- **Machine Learning Products** — data preprocessing, model training, evaluation, inference APIs, and user-facing applications
+- **Backend ML Systems** — FastAPI services, PostgreSQL-backed applications, Dockerized environments, and CI/CD workflows
+- **Cloud-ready AI Software** — reproducible project structure, automated tests, GitHub Actions, and GCP deployment patterns
 
 ---
 
-<!-- ## 📊 Git Stats -->
-<!---->
-<!-- <div>
-<!--     <img -->
-<!--         src="https://github-readme-stats.vercel.app/api/top-langs/?username=StevenHuang41&theme=radical&layout=compact" -->
-<!--         alt="top Lang" -->
-<!--         height="200" -->
-<!--         width="360" -->
-<!--     /> -->
-<!--     <img -->
-<!--         src="https://github-readme-stats.vercel.app/api?username=StevenHuang41&show_icons=true&theme=radical" -->
-<!--         alt="github stats" -->
-<!--         height="200" -->
-<!--         width="480" -->
-<!--     /> -->
-<!-- </div>
+## Featured Projects
 
-<!-- --- -->
+| Project | What it demonstrates | Stack |
+|---|---|---|
+| [Salary Prediction Web Application](https://github.com/StevenHuang41/salary_prediction_web_application) | End-to-end ML product with a training pipeline, API backend, React frontend, database layer, Docker workflow, CI/CD, and GCP deployment | Python, FastAPI, React, PostgreSQL, Docker, GitHub Actions, GCP |
+| [RAG-based Notes Helper](https://github.com/StevenHuang41/RAG-based_notes_helper) | Local-first RAG assistant for querying personal notes with embeddings, vector search, configurable LLM providers, and citation-aware responses | Python, FAISS, SentenceTransformers, OpenAI/Gemini/Ollama, Docker, pytest |
+| [RL-based Stock Trading Support System](https://github.com/StevenHuang41/RL-based_Stock_Trading_Support_System) | Experimental reinforcement learning system for studying policy behavior, reward design, and portfolio-value comparisons against baseline strategies | Python, TensorFlow/Keras, Q-learning, SARSA, DQN, yfinance, pytest |
 
-## 📬 Connect with Me
+---
 
-<div>
-    <a href="https://www.linkedin.com/in/yen-jung-huang-491a57353/">
-        <img src='https://icon.icepanel.io/Technology/svg/LinkedIn.svg' alt='linkedin' height='100' width='100'/>
-    </a>
-    <a href="mailto:yenjung178741@gmail.com">
-        <img src='https://cdn.simpleicons.org/gmail' alt='gmail' height='100' width="100"/>
-    </a>
-</div>
+## Project Highlights
 
+### Salary Prediction Web Application
+
+A full-stack machine learning application that predicts salaries and visualizes how each prediction compares with the broader dataset.
+
+**Highlights**
+
+- End-to-end ML workflow from preprocessing to prediction serving
+- FastAPI backend with structured API design
+- React frontend for interactive user input and result visualization
+- PostgreSQL database integration
+- Dockerized local development workflow
+- GitHub Actions CI/CD and GCP deployment
+- Model performance reporting, including R² and MAE metrics
+
+**Engineering signal:** this project shows my ability to connect machine learning with real software engineering practices: APIs, databases, frontend integration, containers, tests, and cloud deployment.
+
+---
+
+### RAG-based Notes Helper
+
+A personal knowledge assistant that retrieves and reasons over local notes using embeddings, vector search, and configurable LLM backends.
+
+**Highlights**
+
+- Semantic search with embeddings and FAISS
+- Memory-safe file ingestion for local note collections
+- Smart index update workflow for changed files
+- Configurable LLM providers through environment-driven design
+- CLI-oriented workflow for reproducible local usage
+- Docker and CI/CD support
+
+**Engineering signal:** this project demonstrates practical AI application engineering: retrieval, grounding, provider abstraction, local-first design, and maintainable RAG workflows.
+
+---
+
+### RL-based Stock Trading Support System
+
+An experimental reinforcement learning project for studying trading policy behavior on historical market data.
+
+**Highlights**
+
+- Q-learning, SARSA, DQN, and Deep SARSA implementations
+- Epsilon-greedy and softmax exploration strategies
+- Reward design and policy behavior analysis
+- Backtesting-style portfolio-value comparison against buy-and-hold baselines
+- Stored example result artifacts and plots
+- pytest coverage and GitHub Actions CI
+
+**Research signal:** this project is framed as an RL experimentation and backtesting study, not production trading software or financial advice. The focus is on state/action/reward design, evaluation workflow, and understanding model limitations.
+
+---
+
+## Current Learning Focus
+
+I'm currently deepening my skills in:
+
+- **LLM evaluation** — retrieval quality, grounding, hallucination control, and answer faithfulness
+- **Fine-tuning / steering** — adapting models with efficient training and controlled behavior
+- **Agentic systems** — multi-step planning, tool use, memory, and planning workflows
+- **MLOps** — model packaging, deployment automation, monitoring, and reproducibility
+- **Cloud AI architecture** — designing deployable AI services with clean interfaces and reliable infrastructure
+
+---
+
+## Technical Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+
+**AI / Deep Learning / Machine Learning**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-Vector_Search-blue?style=flat)
+![RAG](https://img.shields.io/badge/RAG-LLM_Applications-purple?style=flat)
+
+**Backend / Data**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Frontend / Product**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**DevOps / Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![uv](https://img.shields.io/badge/uv-Python_Packaging-654FF0?style=flat)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+---
+
+## Contact
+
+- LinkedIn: [Yen-Jung Huang](https://www.linkedin.com/in/yen-jung-huang-491a57353/)
+- Email: [yenjung178741@gmail.com](mailto:yenjung178741@gmail.com)
